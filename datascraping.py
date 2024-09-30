@@ -1,4 +1,3 @@
-# scraper.py
 from bs4 import BeautifulSoup as bs4
 import requests as re
 import re as regex
